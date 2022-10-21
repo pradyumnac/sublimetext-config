@@ -1,0 +1,13 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Gruvbox Material Theme",
+		"JSON Reindent",
+		"MarkdownPreview",
+		"Package Control",
+	],
+}

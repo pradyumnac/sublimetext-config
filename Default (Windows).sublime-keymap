@@ -1,0 +1,17 @@
+[
+	{
+    "keys": ["ctrl+shift+m"],
+    "command": "markdown_preview",
+    "args": {
+        "target": "browser",
+        "parser": "markdown",
+        },
+
+    },
+    { "keys": ["ctrl+alt+u"],
+    "command": "open_dir", 
+    "args": {
+        "dir": "res://Packages/User/"
+        } 
+    }
+]
