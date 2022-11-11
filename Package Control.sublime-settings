@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Emmet",
 		"Gruvbox Material Theme",
 		"JSON Reindent",
 		"MarkdownPreview",
 		"Package Control",
+		"VintageES",
 	],
 }
